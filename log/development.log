@@ -1539,3 +1539,323 @@ Processing by ContactsController#create as HTML
   Parameters: {"utf8"=>"✓", "authenticity_token"=>"e9OdaXa9KepvxUtZLxGWmV1bcQphViFTatxLdtd8Zqo9dtcJy9ONpIA6YGIDmtlxyClz2/SP57zdtXVGdLHp/w==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
   Rendered contacts/new.html.erb within layouts/application (0.9ms)
 Completed 200 OK in 23ms (Views: 16.2ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:48:22 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"e9OdaXa9KepvxUtZLxGWmV1bcQphViFTatxLdtd8Zqo9dtcJy9ONpIA6YGIDmtlxyClz2/SP57zdtXVGdLHp/w==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 19ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:48:22 -0700
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:48:26 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Rko48iYsiQc5esE16hxlgpcIwqxwtnKTrEBkj0JFze0A73KSm0ItSdaF6g7GlypqAnrAfeVvtHwbKVq/4YhCuA==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 16ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:49:16 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Rko48iYsiQc5esE16hxlgpcIwqxwtnKTrEBkj0JFze0A73KSm0ItSdaF6g7GlypqAnrAfeVvtHwbKVq/4YhCuA==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 19ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:49:16 -0700
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:49:21 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Rko48iYsiQc5esE16hxlgpcIwqxwtnKTrEBkj0JFze0A73KSm0ItSdaF6g7GlypqAnrAfeVvtHwbKVq/4YhCuA==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 19ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:49:21 -0700
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:50:33 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Rko48iYsiQc5esE16hxlgpcIwqxwtnKTrEBkj0JFze0A73KSm0ItSdaF6g7GlypqAnrAfeVvtHwbKVq/4YhCuA==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 19ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:50:33 -0700
+
+
+Started GET "/contacts" for ::1 at 2016-07-07 21:50:36 -0700
+Processing by ContactsController#new as HTML
+  Rendered contacts/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for ::1 at 2016-07-07 21:50:37 -0700
+Processing by ContactsController#new as HTML
+  Rendered contacts/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 16ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:50:37 -0700
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:52:48 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vEkVp9VBAgfYfEQ0t/maR9QdIN/ElPnwEwjM1Z5iSv367F/HaC+mSTeDbw+bctWvQW8iDlFNPx+kYfLlPa/FqA==", "contact"=>{"email"=>"qwer", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 18ms (Views: 16.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:55:21 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vEkVp9VBAgfYfEQ0t/maR9QdIN/ElPnwEwjM1Z5iSv367F/HaC+mSTeDbw+bctWvQW8iDlFNPx+kYfLlPa/FqA==", "contact"=>{"email"=>"qwer", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 19ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:55:21 -0700
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:55:29 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WJ+TP9HsDBxrhhVcWqxnI+zq2BfgR7WfyB2KCzwquqEeOtlfbIKoUoR5Pmd2JyjLeZjaxnWec3B/dLQ7n+c19A==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 19ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:57:06 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WJ+TP9HsDBxrhhVcWqxnI+zq2BfgR7WfyB2KCzwquqEeOtlfbIKoUoR5Pmd2JyjLeZjaxnWec3B/dLQ7n+c19A==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 20ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/application.self-c20a0d6d605f34124f9ad14d272862742075d228a111e43416cb2ad36a5a97ab.css?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-07 21:57:06 -0700
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:57:09 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XL7VluDM7xl8YHJu14Q7BIjk7RPw8YZo6x1ZcQf4jlgaG5/2XaJLV5OfWVX7D3TsHZbvwmUoQIdcdGdBpDUBDQ==", "contact"=>{"email"=>"", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 25ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for ::1 at 2016-07-07 21:57:12 -0700
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"74+Z5TMWjksMXP9HlXmUSBkqxg13IZBb042c416F/eupKtOFjngqBeOj1Hy58tugjFjE3OL4VrRk5KLT/Uhyvg==", "contact"=>{"email"=>"qweqw", "message"=>""}, "commit"=>"Send message"}
+  Rendered contacts/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 16ms (Views: 14.8ms | ActiveRecord: 0.0ms)
