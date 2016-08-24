@@ -52,6 +52,10 @@ group :test, :development do
   gem 'capybara'
 end
 
+group :test do
+  gem 'test-unit', '~>3.2'
+  gem 'shoulda', '~>3.5'
+end
 
 
 
