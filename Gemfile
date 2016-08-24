@@ -48,11 +48,18 @@ group :development do
 end
 
 group :test, :development do
-  gem "rspec-rails", "~>2.4"
+  gem "rspec-rails"
   gem 'capybara'
 end
 
-#test comment
+group :test do
+  gem 'test-unit', '~>3.2'
+  gem 'shoulda', '~>3.5'
+end
+
+
+
+
 
 
 
