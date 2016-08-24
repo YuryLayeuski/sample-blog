@@ -18,3 +18,8 @@ def comment_params
 end
 
 end
+
+
+
+
+
