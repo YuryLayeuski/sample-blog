@@ -21,4 +21,14 @@ RSpec.describe Article, type: :model do
       expect(article.subject).to eq 'Lorem Ipsum'
     end
   end
+
+  describe "#last_comment" do
+    it "returns the last comment" do
+      #create article, but with comments
+      article = create(:article_with_comments)
+
+      #check
+      expect(article.last_comment.body).to eq "comment body 3"
+    end
+  end
 end
